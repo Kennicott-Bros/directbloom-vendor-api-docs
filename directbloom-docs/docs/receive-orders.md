@@ -17,7 +17,7 @@ These service are currently under development and subject to change. Any changes
 ## Registration
 Kennicott will need to know the url as well as authorization information to send orders. Please provide the url, the
 type of authorization (AccessToken or Username/Password) and the header keys they are supposed to be sent in to
-david@devmercs.com when your endpoint is ready to test.
+andref@kennicott.com when your endpoint is ready to test.
 
 ## Request Headers
 Vendor opted to use "access-token" as their authorization header 
