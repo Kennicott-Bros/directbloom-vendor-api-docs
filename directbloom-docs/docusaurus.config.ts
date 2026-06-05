@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://directbloom.github.io',
+  url: 'https://kennicott-bros.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/DirectBloom-Vendor-Api-Docs/',
+  baseUrl: '/directbloom-vendor-api-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'M0r1artea', // Usually your GitHub org/user name.
-  projectName: 'DirectBloom-Vendor-Api-Docs', // Usually your repo name.
+  organizationName: 'Kennicott-Bros', // Usually your GitHub org/user name.
+  projectName: 'directbloom-vendor-api-docs', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
 
